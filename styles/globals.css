@@ -1,14 +1,17 @@
 @tailwind base;
 
-@tailwind components;
-@tailwind utilities;
-
 @layer base {
     h1 {
-        @apply text-3xl font-roboto ;
+        @apply text-4xl font-roboto font-bold;
     }
     h2 {
-        @apply text-2xl font-roboto font-medium;
+        @apply text-3xl font-roboto ;
     }
-    
+    p, a {
+        @apply text-xl font-opensans font-medium;
+    }
+
 }
+
+@tailwind components;
+@tailwind utilities;

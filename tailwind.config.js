@@ -7,6 +7,8 @@ module.exports = {
     extend: {
       fontFamily: {
         'roboto': ['Roboto', 'sans-serif'],
+        'opensans': ["'Open Sans'", 'sans-serif'],
+        'press-start': ["'Press Start 2P'", 'cursive']
       }
     },
   },
