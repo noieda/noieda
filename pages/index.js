@@ -9,7 +9,7 @@ import Project from "../components/project"
 
 export default function Home() {
   return (
-    <div>
+    <div className="bg-red-50">
       <div className="flex justify-center py-20">
         <div className='max-w-xl'>
           <About />
