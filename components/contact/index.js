@@ -5,7 +5,7 @@ export default function Contact() {
           <div className="my-8">
             <a href='https://github.com/noieda'>github</a><br />
             <a href='https://www.linkedin.com/in/rausyan-fiqrussalam/'>linkedin</a> <br />
-            <a href='mailto:rausyanfiqrussalam@gmail.com'>rausyanfiqrussalam@gmail.com</a>
+            <a href='mailto:rausyanfiqrussalam@gmail.com'>email</a>
           </div>
         </div>
     )
