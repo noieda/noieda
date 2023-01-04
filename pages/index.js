@@ -6,6 +6,7 @@ import Contact from "../components/contact"
 import Experience from "../components/experience"
 import Footer from "../components/footer"
 import Project from "../components/project"
+import Certification from "../components/certification"
 
 export default function Home() {
   return (
@@ -19,9 +20,10 @@ export default function Home() {
           <About />
           <Experience />
           <Project />
+          <Certification />
           <Contact />
+          
         </div>
-        
       </div>
       <Footer />
     </div>
