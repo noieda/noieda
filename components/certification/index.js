@@ -9,7 +9,7 @@ export default function Certification() {
                 <a target="_blank" rel="noopener noreferrer">
                 <h2>Google Cloud Platform - Professional Cloud Architect</h2>
             </a></Link>
-            <p>as a cloud architect, i assess key technical job functions and advanced skills in design, implementation and management of creating solutions using google cloud.</p>
+            <p>as a cloud architect, i assess key technical job functions and advanced skills in design, implementation and management of solutions using google cloud.</p>
             <Link href="https://www.credential.net/0c842dc1-1ff0-469c-acce-a19d66a9c2e0">
                 <a target="_blank" rel="noopener noreferrer">
                 <h2>Google Cloud Platform - Associate Cloud Engineer</h2>
