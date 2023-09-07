@@ -5,6 +5,11 @@ export default function Certification() {
         <div className='w-auto experience pt-20'>
           <h1>Certification</h1>
           <div className="my-8">
+            <Link href="https://www.credential.net/aec94055-e134-49ab-aa44-919fdb769d37">
+                <a target="_blank" rel="noopener noreferrer">
+                <h2>Google Cloud Platform - Professional Data Engineer</h2>
+            </a></Link>
+            <p>as a data engineer, i assesses skill in design, implementing and maintaining data-related solutions using google cloud</p>
             <Link href="https://www.credential.net/3395fbd1-a2bd-4732-8853-8c9caa919f5b">
                 <a target="_blank" rel="noopener noreferrer">
                 <h2>Google Cloud Platform - Professional Cloud Architect</h2>
